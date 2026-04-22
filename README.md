@@ -1,6 +1,6 @@
 # 📈 Corporate Sales Performance - Star Schema & DAX 
 
-![Dashboard Preview]([https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/NOME_DA_SUA_IMAGEM.png?raw=true](https://github.com/KauanPolly/Corporate-Sales-Performance---Star-Schema-DAX/blob/main/image.png))
+![Dashboard Preview](https://github.com/KauanPolly/Corporate-Sales-Performance---Star-Schema-DAX/blob/main/image.png?raw=true)
 
 ## 🛠️ Arquitetura de Dados e Modelagem
 Neste projeto, apliquei conceitos avançados de modelagem relacional para transformar um dataset bruto em um ecossistema de Business Intelligence escalável.
